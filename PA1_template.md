@@ -7,7 +7,7 @@ output:
 
 
 
-## Loading and preprocessing the data
+## Loading and preprocessing data
 
 ```r
 data <- read.csv(unz("activity.zip", "activity.csv"))
